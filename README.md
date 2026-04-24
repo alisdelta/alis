@@ -41,6 +41,36 @@ ALIS is not a doctrine, not a completed answer, and not a system that closes the
 - [Chapter 7 — What ALIS Is Not](./ALIS_Vol1_Ch07_EN.md)
 - [Final Chapter — ALIS Is Not Completed](./ALIS_Vol1_ChFinal_EN.md)
 
+## Supplementary Texts / 補助文書
+
+The following documents are supplementary public materials related to ALIS.  
+They do not define a required reading order. Readers may begin from any document according to their own interest.
+
+以下の文書群は、ALISに関連する公開補助文書です。  
+読む順序を指定するものではありません。読者は自身の関心に応じて任意の入口から読むことができます。
+
+### Mathematical Notes / 数理的補助文書
+
+- [ALIS Mathematical Skeleton EN](math/ALIS_math_EN.md)
+- [ALIS 数学的骨格 JP](math/ALIS_math_JP.md)
+- [ALIS Math Public Alignment EN](math/ALIS_math_public_alignment_EN.md)
+- [ALIS 数理版 公開版対応メモ JP](math/ALIS_math_public_alignment_JP.md)
+- [ALIS External Response Boundary EN](math/ALIS_response_boundary_EN.md)
+- [ALIS 応答境界論 JP](math/ALIS_response_boundary_JP.md)
+
+### Brake Domains / 歯止めとして働きうる領域
+
+- [On Domains Where ALIS Can Serve as a Brake EN](brake_domains/On_Domains_Where_ALIS_Can_Serve_as_a_Brake_EN.md)
+- [ALISが歯止めとして働きうる領域について JP](brake_domains/On_Domains_Where_ALIS_Can_Serve_as_a_Brake_JP.md)
+
+### Essays / 隣接エッセイ
+
+The following essay is adjacent to ALIS, but should not be read as ALIS core doctrine.  
+以下のエッセイはALISに隣接する文章ですが、ALIS本体の教義として読むべきものではありません。
+
+- [Into the Veil of Sleepless Night EN](essays/Into_the_Veil_of_Sleepless_Night_EN.md)
+- [眠れぬ夜のとばりに JP](essays/Into_the_Veil_of_Sleepless_Night_JP.md)
+  
 ## Notes
 
 - ALIS is published for verification, not proselytization.
